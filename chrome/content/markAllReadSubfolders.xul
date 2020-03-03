@@ -5,7 +5,7 @@
 <overlay id="MarkAllReadSubfolders" 
          xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
 
-<script type="application/x-javascript" src="chrome://markallreadsub/content/markAllReadSubfolders.js"/>
+<script type="application/javascript" src="chrome://markallreadsub/content/markAllReadSubfolders.js"/>
 
  <popup id="folderPaneContext">
   <menuitem id="folderPaneContext-markMailSubfolderAllRead"

@@ -133,7 +133,7 @@ gMarkSubfolders.init = function()
 
     // for backword compatibility
     if (appVer3Orlater) {
-        gMarkSubfolders.folderFlagsVirtual  = nsMsgFolderFlags.Virtual;
+        gMarkSubfolders.folderFlagsVirtual  = Components.interfaces.nsMsgFolderFlags.Virtual;
         gMarkSubfolders.getFolderInstance   = this._getFolderInstance_3orLater;
         gMarkSubfolders.getFolderEnumerator = this._getFolderEnumerator_3orLater;
         gMarkSubfolders.markAllMessagesRead = this._markAllMessagesRead_3orLater;

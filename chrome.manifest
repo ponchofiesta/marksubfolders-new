@@ -12,4 +12,4 @@ locale  markallreadsub es-ES       chrome/locale/es-ES/
 locale  markallreadsub es-AR       chrome/locale/es-AR/
 locale  markallreadsub pl          chrome/locale/pl/
 locale  markallreadsub hu          chrome/locale/hu/
-overlay chrome://messenger/content/mailWindowOverlay.xul chrome://markallreadsub/content/markAllReadSubfolders.xul
+overlay chrome://messenger/content/messenger.xul chrome://markallreadsub/content/markAllReadSubfolders.xul
